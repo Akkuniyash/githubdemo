@@ -1,0 +1,10 @@
+command for including git repository:
+  git clone https://github.com/Akkuniyash/githubdemo.git
+change directory:
+  cd filename
+for checking status
+  git status
+Github folder->Copy Folder->working file
+to change working file to copy folder:
+  git add filename    
+  
