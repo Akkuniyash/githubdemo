@@ -5,6 +5,9 @@ change directory:
 for checking status
   git status
 Github folder->Copy Folder->working file
-to change working file to copy folder:
-  git add filename    
-  
+to change working file to staging area:
+  git add filename   
+to change from staging area to copy folder(local)   
+  git commit -m "commit message"
+to save the changes to github folder
+  git push origin(to push in main)  
